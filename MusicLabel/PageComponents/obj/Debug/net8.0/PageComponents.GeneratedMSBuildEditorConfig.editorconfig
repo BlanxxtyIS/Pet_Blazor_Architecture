@@ -1,4 +1,7 @@
 is_global = true
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudIllegalParameters = 
 build_property.TargetFramework = net8.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -19,6 +22,10 @@ build_property.MSBuildProjectDirectory = C:\Users\Khasanov.MI\Desktop\Pet_Blazor
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Khasanov.MI/Desktop/Pet_Blazor_Architecture/MusicLabel/PageComponents/Components/Test.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Khasanov.MI/Desktop/Pet_Blazor_Architecture/MusicLabel/PageComponents/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=

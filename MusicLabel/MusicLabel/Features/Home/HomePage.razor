@@ -1,0 +1,35 @@
+﻿@page "/"
+@inject AlbumService AlbumService
+
+<Test ButtonText="HALO" />
+
+@if (albums == null)
+{
+    <p><em>Loading...</em></p>
+}
+else if (!albums.Any())
+{
+    <p>No albums found.</p>
+}
+else
+{
+    <ul>
+        @foreach (var album in albums)
+        {
+            <li>
+                <h4>@album.AlbumName</h4>
+                <img src="@album.Image" alt="@album.AlbumName" style="width:100px;height:auto;" />
+                <p>@album.Description</p>
+            </li>
+        }
+    </ul>
+}
+
+@code {
+    private IEnumerable<Album>? albums;
+
+    protected override async Task OnInitializedAsync()
+    {
+        albums = await AlbumService.GetAlbumsAsync();
+    }
+}

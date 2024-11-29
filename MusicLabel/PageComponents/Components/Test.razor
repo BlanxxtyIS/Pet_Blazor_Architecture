@@ -1,0 +1,15 @@
+﻿<MudButton Variant="Variant.Filled" @onclick="Clicked">@ButtonText</MudButton>
+<MudButton Variant="Variant.Filled" Color="Color.Secondary">@ButtonText</MudButton>
+
+<MudAvatar Color="Color.Primary">M</MudAvatar>
+<MudAvatar Color="Color.Secondary">U</MudAvatar>
+<MudAvatar Color="Color.Tertiary">D</MudAvatar>
+
+@code {
+    [Parameter, EditorRequired]
+    public string ButtonText { get; set; } = "Hello World";
+
+    public void Clicked() {
+        ButtonText = "HOLLLA";
+    }
+}
