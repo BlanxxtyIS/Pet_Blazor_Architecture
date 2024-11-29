@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khasanov.MI\\Desktop\\Pet_Blazor_Architecture\\MusicLabel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4690B1-2E16-4A25-B480-846FFBE9D2C5}|PageComponents\\PageComponents.csproj|c:\\users\\khasanov.mi\\desktop\\pet_blazor_architecture\\musiclabel\\pagecomponents\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4690B1-2E16-4A25-B480-846FFBE9D2C5}|PageComponents\\PageComponents.csproj|solutionrelative:pagecomponents\\examplejsinterop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4690B1-2E16-4A25-B480-846FFBE9D2C5}|PageComponents\\PageComponents.csproj|c:\\users\\khasanov.mi\\desktop\\pet_blazor_architecture\\musiclabel\\pagecomponents\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B4690B1-2E16-4A25-B480-846FFBE9D2C5}|PageComponents\\PageComponents.csproj|solutionrelative:pagecomponents\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Khasanov.MI\\Desktop\\Pet_Blazor_Architecture\\MusicLabel\\PageComponents\\_Imports.razor",
+              "RelativeDocumentMoniker": "PageComponents\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Khasanov.MI\\Desktop\\Pet_Blazor_Architecture\\MusicLabel\\PageComponents\\_Imports.razor",
+              "RelativeToolTip": "PageComponents\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:26:53.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExampleJsInterop.cs",
+              "DocumentMoniker": "C:\\Users\\Khasanov.MI\\Desktop\\Pet_Blazor_Architecture\\MusicLabel\\PageComponents\\ExampleJsInterop.cs",
+              "RelativeDocumentMoniker": "PageComponents\\ExampleJsInterop.cs",
+              "ToolTip": "C:\\Users\\Khasanov.MI\\Desktop\\Pet_Blazor_Architecture\\MusicLabel\\PageComponents\\ExampleJsInterop.cs",
+              "RelativeToolTip": "PageComponents\\ExampleJsInterop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:26:55.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
